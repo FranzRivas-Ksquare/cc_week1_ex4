@@ -10,7 +10,10 @@
 
 */
 
-
+// pairTheSum
+// description: find a pair of a sum that be equal to a target
+// input: arr, number.
+// output: boolean
 
 /** DO NOT CHANGE THE FUNCTION NAME **/
 const pairTheSum = (numbers, target) => {
